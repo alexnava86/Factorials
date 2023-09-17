@@ -1,0 +1,19 @@
+C:\Extra Exercises\Chapter 05\Factorials\Factorials\Factorials\bin\Debug\Factorials.exe.config
+C:\Extra Exercises\Chapter 05\Factorials\Factorials\Factorials\bin\Debug\Factorials.exe
+C:\Extra Exercises\Chapter 05\Factorials\Factorials\Factorials\bin\Debug\Factorials.pdb
+C:\Extra Exercises\Chapter 05\Factorials\Factorials\Factorials\obj\Debug\Factorials.csprojResolveAssemblyReference.cache
+C:\Extra Exercises\Chapter 05\Factorials\Factorials\Factorials\obj\Debug\Factorials.Properties.Resources.resources
+C:\Extra Exercises\Chapter 05\Factorials\Factorials\Factorials\obj\Debug\Factorials.csproj.GenerateResource.Cache
+C:\Extra Exercises\Chapter 05\Factorials\Factorials\Factorials\obj\Debug\Factorials.exe
+C:\Extra Exercises\Chapter 05\Factorials\Factorials\Factorials\obj\Debug\Factorials.pdb
+C:\Extra Exercises\Chapter 05\Factorials\Factorials\Factorials\obj\Debug\Factorials.frmFactorialCalculator.resources
+C:\Users\Nava\Documents\Projects\Factorials\Project.Factorials\bin\Debug\Factorials.exe.config
+C:\Users\Nava\Documents\Projects\Factorials\Project.Factorials\bin\Debug\Factorials.exe
+C:\Users\Nava\Documents\Projects\Factorials\Project.Factorials\bin\Debug\Factorials.pdb
+C:\Users\Nava\Documents\Projects\Factorials\Project.Factorials\obj\Debug\Factorials.csprojAssemblyReference.cache
+C:\Users\Nava\Documents\Projects\Factorials\Project.Factorials\obj\Debug\Factorials.frmFactorialCalculator.resources
+C:\Users\Nava\Documents\Projects\Factorials\Project.Factorials\obj\Debug\Factorials.Properties.Resources.resources
+C:\Users\Nava\Documents\Projects\Factorials\Project.Factorials\obj\Debug\Factorials.csproj.GenerateResource.cache
+C:\Users\Nava\Documents\Projects\Factorials\Project.Factorials\obj\Debug\Factorials.csproj.CoreCompileInputs.cache
+C:\Users\Nava\Documents\Projects\Factorials\Project.Factorials\obj\Debug\Factorials.exe
+C:\Users\Nava\Documents\Projects\Factorials\Project.Factorials\obj\Debug\Factorials.pdb
